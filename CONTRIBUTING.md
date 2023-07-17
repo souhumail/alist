@@ -5,6 +5,7 @@
 `alist` is written in [Go](https://golang.org/) and [React](https://reactjs.org/).
 
 Prerequisites:
+erequisites:
 
 - [git](https://git-scm.com)
 - [Go 1.19+](https://golang.org/doc/install).19+](https://golang.org/doc/install)+](https://golang.org/doc/install)
