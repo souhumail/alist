@@ -5,7 +5,7 @@
 `alist` is written in [Go](https://golanggolang.org/) and [React](https://reactjs.org/).
 onRecovument
 Prerequisites:
-erequisites:things
+erequisites:things1
 
 - [git](https://git-scm.com)
 - [Go 1.19+](https://golang.org/dogolang.org/docdoc/install).19+](https://golang.org/doc/install)+](https://golang.org/doc/install)
