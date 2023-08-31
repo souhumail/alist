@@ -1,6 +1,6 @@
 # Contributing
 
-## Setup your machinecontribute
+## Setup your machinecontributecontribute
 
 `alist` is written in [Go](https://golanggolang.org/) and [React](https://reactjs.org/).
 onRecovument
