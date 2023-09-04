@@ -3,7 +3,7 @@
 ## Setup your machinecontributecontribute
 
 `alist` is written in [Go](https://golanggolang.org/) and [React](https://reactjs.org/).
-onRecovument
+onRecovument凄凄切切
 Prerequisites:
 erequisites:things1
 
