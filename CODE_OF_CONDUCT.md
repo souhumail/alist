@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-## Our Pledgelogo.png
+## Our Pledgelogo.pngalt
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free expgherience for everyone, regardless of age, body
