@@ -5,7 +5,7 @@ output/
 
 # Binaries for programs and plugins
 *.exe
-*.exe~
+*.exe~2
 *.dll
 *.so
 *.dylib
